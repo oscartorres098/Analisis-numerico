@@ -1,0 +1,7 @@
+r<-536.78
+n<-3
+m<-4
+E<-1*10^(n-m)
+cat("El error de redondeo absoluto es=",E,"\n")
+
+##correr en R

@@ -1,0 +1,20 @@
+Etapas:	
+	1. Determinar el objetivo del problema: 
+	lo que hay que hacer máxima o mínima. En el ejemplo anterior 		el objetivo es que el volumen de la caja sea máximo.
+	2.Expresar en forma de función tal objetivo:
+	La caja es un prisma rectangular: volumen = área de la base 		por la altura
+	3. Los puntos máximos o mínimos se encuentran, si existen, 		entre las soluciones de v'=0 se obtienen x=4.53 y x=14.14
+	4. Para ver cual de ellos es el maximmo se hace v''= 24x-244 		y se evalua en esas soluciones como v''(4.53)<0 y 		v''(14.14)>0 el maximo se da para x=4.53. Esta es la 		solucion buscada
+
+1. La etapa del proceso que requiere mas atencion es la primera pues 
+en esta basaremos nuestro modelo matematico
+
+2. Se debe conocer las etapas para la creacion del mismo, tener los conocimientos algebraicos y aritmeticos para la resolucion del problema, y el conocimiento en el lenguaje de programacion en que se desea implementar la solucion
+
+3. Si se hace uso de la prueba y el error se puede tardar mucho ya que es un proseso aleatoreo
+
+4. El error de truncamiento es mas critico que el error de redondeo ya que el error de redondeo nunca es mayor que el error de truncamiento
+
+5. Que el computador puede aplicar el modelo mas rapida y exactamente que un humano
+
+6. Por que nuestro sistema puede tener errores y para detectarlos debemos validar los
